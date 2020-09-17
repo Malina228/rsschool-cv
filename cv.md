@@ -1,4 +1,4 @@
-#rsschool-cv
+# rsschool-cv
 1. Ilya Malinovskiy
 2. Email: stark7415963@gmail.com
 3. Studying at BSUIR (third year). I’m purposeful, ready to study hard and gain new knowledges
