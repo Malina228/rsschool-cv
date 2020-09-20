@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://previews.123rf.com/images/siraphol/siraphol1504/siraphol150405358/39057920-white-concrete-brick-wall-textures-background.jpg");
+    background-size: 100%;
+}
+
+header {
+    margin: 15px;
+    font-size: 100px;
+    text-align: center;
+    font-family: monospace;
+    
+}
+
+main {
+    margin: 10px 10px 10px 165px;
+    width: 80%;
+    font-family: monospace;
+    border: 5px solid rgb(230, 113, 35);
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px red;
+}
+
+.text {
+    margin: 90px;
+    text-align: center;
+    font-weight: 600;
+    color: red;
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px rgb(122, 20, 20);
+    font-size: 40px;
+    border: 5px solid grey;
+}
+
+footer {
+    margin: 50px 0px 50px 0px;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 300;
+    text-decoration: underline red;
+}
+
+#pic {
+    margin: 100px 10px 10px 515px;
+    width: 19.7%;
+    height: 325px;
+    text-align: center;
+    border: 10px solid red;
+}
+
+
+
+
+
+
