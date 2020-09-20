@@ -1,0 +1,44 @@
+.zagolovok {
+    font-size: 100px;
+    text-align: center;
+    font-family: monospace;
+    margin: 15px;
+}
+
+.osnova {
+    border: 5px solid rgb(230, 113, 35);
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px red;
+    width: 70%;
+    margin: 10px 10px 10px 235px;
+}
+
+.text {
+    text-align: center;
+    font-weight: 600;
+    color: red;
+    border: 5px solid grey;
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px rgb(122, 20, 20);
+    font-size: 45px;
+    margin: 90px;
+}
+
+.podval {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    margin: 50px 0px 50px 0px;
+    font-weight: 300;
+    text-decoration: underline red;
+}
+
+#pic {
+    text-align: center;
+}
+
+
+
+
+
+
